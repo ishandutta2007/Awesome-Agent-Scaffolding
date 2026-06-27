@@ -1,5 +1,17 @@
-# Awesome-Agent-Scaffolding
-## Agent Scaffolding: Evolution, Variants, Types, & Applications
+# Awesome Agent Scaffolding 🤖
+
+<p align="center">
+  <img src="./assets/banner.svg" alt="Awesome Agent Scaffolding Banner" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Agent-Scaffolding/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Agent-Scaffolding?style=flat-square" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Agent-Scaffolding/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Agent-Scaffolding?style=flat-square" alt="GitHub license" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+## Overview 🚀
 
 Agent Scaffolding—also known as agent frameworks, cognitive architectures, or wrapper runtimes—is the external programmatic infrastructure that wraps around a Large Language Model (LLM) to transform it from a static text predictor into an autonomous operational agent. While a raw LLM operates in single-turn completion loops, agent scaffolding provides the model with System 2 orchestration layers, execution state tracking, short/long-term memory management, and secure tool-access gateways. By managing a continuous execution cycle of observation, reasoning, tool dispatch, and self-correction, scaffolding expands an LLM's capability boundaries to execute long-horizon, complex, and unguided workflows.
 
