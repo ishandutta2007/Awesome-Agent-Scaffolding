@@ -10,7 +10,10 @@ Agent Scaffolding—also known as agent frameworks, cognitive architectures, or 
 The technical architecture of agent orchestration has transitioned from basic hardcoded prompt templates to programmatic graph states and standardized middle-layer cross-model client protocols.
 
 ```mermaid
-[Hardcoded Prompts (ReAct, 2022)] ----> [Stateful Graphs & Multi-Agent (2023-2024)] ----> [Unified Standard Protocols (MCP, 2025+)](Rigid Single-Loop Regex Strings)         (Dynamic Routing / Segmented Multi-Expert Nodes)     (Plug-and-Play Client-Server Tool Abstraction)
+flowchart LR
+    A["Hardcoded Prompts (ReAct, 2022)<br/>(Rigid Single-Loop Regex Strings)"]
+    --> B["Stateful Graphs & Multi-Agent (2023-2024)<br/>(Dynamic Routing / Segmented Multi-Expert Nodes)"]
+    --> C["Unified Standard Protocols (MCP, 2025+)<br/>(Plug-and-Play Client-Server Tool Abstraction)"]
 ```
 
 *   **The Linear ReAct Prompt Era (~2022–2023)**
