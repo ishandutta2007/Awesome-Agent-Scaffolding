@@ -78,3 +78,17 @@ Deploying stateful agent scaffolding at commercial scales introduces severe toke
 | **[Autonomous Enterprise Software Engineers (Devin / SWE-Agent Configurations)](./details/autonomous-software-engineers.md)** | *Application:* Solves real-world software repository issues. The scaffolding wraps a frontier reasoning model, providing it with access to local bash shells, code compilers, and git trees. The agent reads multi-file directories, executes unit tests inside localized sandboxes, tracks compiler errors, and refactors bugs iteratively until all validation tests pass. | 2024 | [SWE-agent: Agent-Computer Interfaces Enable Software Engineering Agents](https://arxiv.org/abs/2405.15793) |
 | **[End-to-End Automated Financial Auditing & Report Generation](./details/automated-financial-auditing.md)** | *Application:* Processes multi-departmental corporate profiles. The scaffolding orchestrates a team of agents: one agent builds SQL scripts to extract transaction records, another agent pipes the data through an on-the-fly Python script to analyze variance trends, and a supervisor agent compiles the findings into a verified audit summary chart. | 2025 | [FinRpt: Dataset, Evaluation System and LLM-based Multi-agent Framework for Equity Research Report Generation](https://arxiv.org/abs/2511.07322) |
 | **[Omni-Channel Customer Relationship Management (CRM) Agents](./details/crm-agents.md)** | *Application:* Powers high-throughput intelligent consumer service networks. When a user presents a complex logistical issue, the scaffolding hooks the agent into shipping APIs, inventory catalogs, and user tier records simultaneously, dynamically formulating and executing resolution procedures (e.g., processing a partial refund and restocking an item) automatically. | 2025 | [ECom-Bench: Can LLM Agent Resolve Real-World E-commerce Customer Support Issues?](https://arxiv.org/abs/2507.05596) |
+
+---
+
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Agent-Scaffolding&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Agent-Scaffolding&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Agent-Scaffolding&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Agent-Scaffolding&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
